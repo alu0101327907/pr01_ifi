@@ -32,32 +32,32 @@
 
 <img width="587" height="490" alt="ejercicio8" src="https://github.com/user-attachments/assets/b4250c92-546e-43dd-85c5-700b09b83268" />
 
-# a. Duplicamos el vector de dirección.
+### a. Duplicamos el vector de dirección.
 
 <img width="587" height="490" alt="ejercicio8a" src="https://github.com/user-attachments/assets/e6c0dd57-a6f5-4f49-bd4e-0071fe290fa0" />
 
-# b. Duplicamos la velocidad manteniendo la dirección del movimiento.
+### b. Duplicamos la velocidad manteniendo la dirección del movimiento.
 
 <img width="587" height="490" alt="ejercicio8b" src="https://github.com/user-attachments/assets/6d69ab75-7c59-43da-ac7c-954b715518de" />
 
-# c. Velocidad menor que 1
+### c. Velocidad menor que 1
 
 <img width="587" height="490" alt="ejercicio8c" src="https://github.com/user-attachments/assets/6f9eb462-1150-41d4-beff-696399508033" />
 
-# d. La posición del cubo tiene y>0
+### d. La posición del cubo tiene y>0
 
 <img width="587" height="490" alt="ejercicio8d" src="https://github.com/user-attachments/assets/46d4f13a-2ebe-449a-948a-768cf063b977" />
 
-# e. Intercambiar movimiento relativo al sistema de referencia local y el mundial.
+### e. Intercambiar movimiento relativo al sistema de referencia local y el mundial.
 
 Space.Self → el movimiento utiliza los ejes locales del cubo.
 Space.World → el movimiento utiliza los ejes globales de la escena, independientemente de la rotación del cubo.
 
-# e1. Sistema de referencia local
+### e1. Sistema de referencia local
 
 <img width="587" height="490" alt="ejercicio8e1" src="https://github.com/user-attachments/assets/9b1264ea-d9db-411f-a4dc-1e90ffbd3040" />
 
-# e2. Sistema de referencia mundial
+### e2. Sistema de referencia mundial
 
 <img width="587" height="490" alt="ejercicio8e2" src="https://github.com/user-attachments/assets/3a628d6d-f282-4aac-867d-ee6b86233469" />
 
@@ -68,7 +68,6 @@ Space.World → el movimiento utiliza los ejes globales de la escena, independie
 ## Ejercicio 10
 
 <img width="587" height="490" alt="ejercicio10" src="https://github.com/user-attachments/assets/71e960e1-d953-49a4-8aa8-66b1c769ef88" />
-
 
 ## Ejercicio 11
 
