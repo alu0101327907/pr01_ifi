@@ -51,6 +51,7 @@
 ### e. Intercambiar movimiento relativo al sistema de referencia local y el mundial.
 
 Space.Self → el movimiento utiliza los ejes locales del cubo.
+
 Space.World → el movimiento utiliza los ejes globales de la escena, independientemente de la rotación del cubo.
 
 ### e1. Sistema de referencia local
