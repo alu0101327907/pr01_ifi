@@ -14,3 +14,6 @@ Ejercicio 4
 
 <img width="496" height="42" alt="image" src="https://github.com/user-attachments/assets/6f67a0f6-3800-4ef4-9dee-3a3181a9c0c4" />
 
+Ejercicio 5
+
+<img width="819" height="531" alt="ejercicio5" src="https://github.com/user-attachments/assets/3dcda6b2-201c-407a-bb05-3b08c7420a11" />
